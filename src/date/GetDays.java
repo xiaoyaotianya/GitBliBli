@@ -9,7 +9,7 @@ public class GetDays {
 	     * @param year 
 	     * @param month 
 	     * @return 返回天数 
-	     *//*  
+	     */  
 	    public static int getDays(int year, int month) {  
 	    int days = 0;  
 	    boolean isLeapYear = false;  
@@ -56,6 +56,6 @@ public class GetDays {
 	    	System.out.println(days);
 	    	
 	    	
-		}*/
+		}
 
 }
