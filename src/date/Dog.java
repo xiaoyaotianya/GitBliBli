@@ -4,7 +4,11 @@ public class Dog {
 	
 	public static void main(String[] args) {
 		
-            Map map = new HashMap();
+            List<String> list = new ArrayLsit<>();
+		
+		
+	   long a = 9999;
+		
 		
 
         System.out.println("===========================");
