@@ -7,6 +7,8 @@ public class Dog {
             Map map = new HashMap();
 		
 
+        System.out.println("===========================");
+
 	}
 
 }
