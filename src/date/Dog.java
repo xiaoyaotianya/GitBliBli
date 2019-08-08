@@ -7,6 +7,9 @@ public class Dog {
             List<String> list = new ArrayLsit<>();
 		
 		
+	   long a = 9999;
+		
+		
 
 	}
 
