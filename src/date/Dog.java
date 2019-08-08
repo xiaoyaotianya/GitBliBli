@@ -4,7 +4,8 @@ public class Dog {
 	
 	public static void main(String[] args) {
 		
-            int b = 88;
+            Map map = new HashMap();
+		
 
 	}
 
