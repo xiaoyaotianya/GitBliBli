@@ -6,6 +6,10 @@ public class Dog {
 		
 		
 		int i=9;
+
+
+		int a=1;
+
 	}
 
 }
