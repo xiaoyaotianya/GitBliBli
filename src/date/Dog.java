@@ -6,6 +6,8 @@ public class Dog {
 
 		 Long
 		
+		sys
+		
 	}
 
 }
