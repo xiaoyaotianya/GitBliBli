@@ -9,6 +9,9 @@ public class Dog {
 		case 9:
 		case 11:
       
+
+      List<> a = new ArrayList<>();
+
 		Map
 		
 	}
