@@ -5,7 +5,8 @@ public class Dog {
 	public static void main(String[] args) {
 		
 		
-		int i=9;
+	 System.out.println("aa");
+
 
 
 		int a=1;
