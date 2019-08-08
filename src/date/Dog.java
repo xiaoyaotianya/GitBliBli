@@ -4,15 +4,7 @@ public class Dog {
 	
 	public static void main(String[] args) {
 
-		case 4:
-		case 6:
-		case 9:
-		case 11:
-      
-
-      List<> a = new ArrayList<>();
-
-		Map
+		 int a=0;
 		
 	}
 
