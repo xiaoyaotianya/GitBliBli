@@ -4,7 +4,7 @@ public class GetDays {
 
       
 
-	int i=0;    
+ aaa
 	    	
 	  
 	
