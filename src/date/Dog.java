@@ -4,7 +4,7 @@ public class Dog {
 	
 	public static void main(String[] args) {
 		
-            int a = 1+4;
+            int b = 88;
 
 	}
 
