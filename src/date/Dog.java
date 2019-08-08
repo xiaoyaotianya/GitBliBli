@@ -4,14 +4,9 @@ public class Dog {
 	
 	public static void main(String[] args) {
 		
-            List<String> list = new ArrayLsit<>();
-		
-		
-	   long a = 9999;
-		
-		
 
-        System.out.println("===========================");
+          int i=10;
+
 
 	}
 
