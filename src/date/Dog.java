@@ -4,7 +4,8 @@ public class Dog {
 	
 	public static void main(String[] args) {
 		
-            Map map = new HashMap();
+            List<String> list = new ArrayLsit<>();
+		
 		
 
 	}
